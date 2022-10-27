@@ -12,3 +12,4 @@ Este enlace de youtube corresponde al video grabado del gazebo y Rviz.
 https://www.youtube.com/watch?v=ZnjGPL6RmCc&t=67s
 
 Igual ponemos el enlace de la grabación del Gazebo.
+https://youtu.be/Uums6F3-bq4
