@@ -13,3 +13,7 @@ https://www.youtube.com/watch?v=ZnjGPL6RmCc&t=67s
 
 Igual ponemos el enlace de la grabación del Gazebo.
 https://youtu.be/Uums6F3-bq4
+
+
+Se realizaron pruebas de las simulacion con un punto de origen del robot en x=-3 y=2. Los enlaces de los videos son los siguientes:
+Mapeo Gazebo: https://www.youtube.com/watch?v=L9MpGds97uQ
